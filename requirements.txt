@@ -1,0 +1,10 @@
+tensorflow==2.21.0
+pillow
+numpy
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+fastapi
+uvicorn[standard]
+python-multipart

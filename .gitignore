@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.pkl
+*.h5
+data/
+models/
+reports/uploads/
+.venv/
+.vscode/
+
+.gemini/
+.idea/
+.project/
